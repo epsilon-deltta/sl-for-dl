@@ -1,3 +1,7 @@
+### fast baseline deep learning 
+- FashionMNIST (cnn)  
+<a href="https://colab.research.google.com/github/epsilon-deltta/sl-for-dl/blob/master/dl-torch/baseline_fashion.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ### 꼼꼼한 딥러닝 논문 리뷰와 코드 실습: Deep Learning Paper Review and Practice
 
 * 꼼꼼한 딥러닝 논문 리뷰와 코드 실습을 위한 저장소입니다.
