@@ -11,11 +11,11 @@
 #### Image Recognition (이미지 인식)
 
 * End-to-End Object Detection with Transformers (ECCV 2020)
-    * [Original Paper Link](https://arxiv.org/abs/2005.12872) / [Paper Review Video](https://www.youtube.com/watch?v=hCWUTvVrG7E) / [Summary PDF](/lecture_notes/DETR.pdf) / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/2005.12872) / [Paper Review Video](https://www.youtube.com/watch?v=hCWUTvVrG7E) / [Summary PDF](/lecture_notes/DETR.pdf) / Code Practicelectu
 * Searching for MobileNetV3 (ICCV 2019)
     * [Original Paper Link](https://arxiv.org/abs/1905.02244) / Paper Review Video / Summary PDF / Code Practice
 * Deep Residual Learning for Image Recognition (CVPR 2016)
-    * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review Video](https://www.youtube.com/watch?v=671BsKl8d0E) / [Summary PDF](/lecture_notes/ResNet.pdf) / [MNIST](/code_practices/ResNet18_MNIST_Train.ipynb) / [CIFAR-10](/code_practices/ResNet18_CIFAR10_Train.ipynb) / [ImageNet](/code_practices/Pretrained_ResNet18_ImageNet_Test.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review Video](https://www.youtube.com/watch?v=671BsKl8d0E) / [Summary PDF](/lecture_notes/ResNet.pdf) / [MNIST](/etc/code_practices/ResNet18_MNIST_Train.ipynb) / [CIFAR-10](/etc/code_practices/ResNet18_CIFAR10_Train.ipynb) / [ImageNet](/etc/code_practices/Pretrained_ResNet18_ImageNet_Test.ipynb)
 * Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
     * [Original Paper Link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) / Paper Review Video / Summary PDF / Code Practice
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2015)
@@ -28,11 +28,11 @@
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
     * [Original Paper Link](https://arxiv.org/abs/1810.04805) / Paper Review Video / Summary PDF / Code Practice
 * Attention is All You Need (NIPS 2017)
-    * [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Paper Review Video](https://www.youtube.com/watch?v=AA621UofTUA) / [Summary PDF](/lecture_notes/Transformer.pdf) / [Code Practice](/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Paper Review Video](https://www.youtube.com/watch?v=AA621UofTUA) / [Summary PDF](/lecture_notes/Transformer.pdf) / [Code Practice](/etc/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
 * Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015 Oral)
-    * [Original Paper Link](https://arxiv.org/abs/1409.0473) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Sequence_to_Sequence_with_Attention_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1409.0473) / Paper Review Video / Summary PDF / [Code Practice](/etc/code_practices/Sequence_to_Sequence_with_Attention_Tutorial.ipynb)
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
-    * [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper Review Video](https://www.youtube.com/watch?v=4DzKM0vgG1Y) / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / [Code Practice](/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper Review Video](https://www.youtube.com/watch?v=4DzKM0vgG1Y) / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / [Code Practice](/etc/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)
 
 #### Generative Model & Super Resolution (생성 모델 & 해상도 복원)
 
@@ -43,9 +43,9 @@
 * A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)
     * [Original Paper Link](https://arxiv.org/abs/1812.04948) / Paper Review Video / Summary PDF / Code Practice
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (CVPR 2018 Oral)
-    * [Original Paper Link](https://arxiv.org/abs/1711.09020) / [Paper Review Video](https://www.youtube.com/watch?v=-r9M4Cj9o_8) / [Summary PDF](/lecture_notes/StarGAN.pdf) / [Code Practice](/code_practices/StarGAN_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1711.09020) / [Paper Review Video](https://www.youtube.com/watch?v=-r9M4Cj9o_8) / [Summary PDF](/lecture_notes/StarGAN.pdf) / [Code Practice](/etc/code_practices/StarGAN_Tutorial.ipynb)
 * Generative Adversarial Nets (NIPS 2014)
-    * [Original Paper Link](https://arxiv.org/abs/1406.2661) / [Paper Review Video](https://www.youtube.com/watch?v=AVvlDmhHgC4) / [Summary PDF](/lecture_notes/GAN.pdf) / [Code Practice](/code_practices/GAN_for_MNIST_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1406.2661) / [Paper Review Video](https://www.youtube.com/watch?v=AVvlDmhHgC4) / [Summary PDF](/lecture_notes/GAN.pdf) / [Code Practice](/etc/code_practices/GAN_for_MNIST_Tutorial.ipynb)
 
 #### Modeling & Optimization (모델링 & 최적화)
 
@@ -54,14 +54,14 @@
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1510.00149) / Paper Review Video / Summary PDF / Code Practice
 * Batch normalization: Accelerating deep network training by reducing internal covariate shift (PMLR 2015)
-    * [Original Paper Link](https://arxiv.org/abs/1502.03167) / [Paper Review Video](https://www.youtube.com/watch?v=58fuWVu5DVU) / [Summary PDF](/lecture_notes/Batch_Normalization.pdf) / [Code Practice](/code_practices/Batch_Normalization_Evaluation_(with_Residual_Connection).ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1502.03167) / [Paper Review Video](https://www.youtube.com/watch?v=58fuWVu5DVU) / [Summary PDF](/lecture_notes/Batch_Normalization.pdf) / [Code Practice](/etc/code_practices/Batch_Normalization_Evaluation_(with_Residual_Connection).ipynb)
 
 #### Adversarial Examples & Backdoor Attacks (적대적 예제 & 백도어 공격)
 
 * Breaking certified defenses: Semantic adversarial examples with spoofed robustness certificates (ICLR 2020)
-    * [Original Paper Link](https://arxiv.org/abs/2003.08937) / [Paper Review Video](https://www.youtube.com/watch?v=D1j3QiXPRag) / [Summary PDF](/lecture_notes/Shadow_Attack.pdf) / [Code Practice](/code_practices/Shadow_Attack_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/2003.08937) / [Paper Review Video](https://www.youtube.com/watch?v=D1j3QiXPRag) / [Summary PDF](/lecture_notes/Shadow_Attack.pdf) / [Code Practice](/etc/code_practices/Shadow_Attack_Tutorial.ipynb)
 * Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020 Oral)
-    * [Original Paper Link](https://arxiv.org/abs/1907.11932) / [Paper Review Video](https://www.youtube.com/watch?v=EF-IYFTKZiE) / [Summary PDF](/lecture_notes/TextFooler.pdf) / [Code Practice](/code_practices/TextFooler_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1907.11932) / [Paper Review Video](https://www.youtube.com/watch?v=EF-IYFTKZiE) / [Summary PDF](/lecture_notes/TextFooler.pdf) / [Code Practice](/etc/code_practices/TextFooler_Tutorial.ipynb)
 * Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks (NIPS 2018)
     * [Original Paper Link](https://arxiv.org/abs/1804.00792) / Paper Review Video / Summary PDF / Code Practice
 * Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (ICLR 2018)
